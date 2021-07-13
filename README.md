@@ -14,3 +14,4 @@ I am here to gain experience about web develop 
 | --- | --- |
 | growth | [go to it](https://ammar00areeda.github.io/reading-notes/growth) |
 | read01| [go to it](https://ammar00areeda.github.io/reading-notes/read01) |
+| read02| [go to it](https://ammar00areeda.github.io/reading-notes/read02) |
