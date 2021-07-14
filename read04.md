@@ -18,3 +18,8 @@ HTML and CSS are often called markup languages rather than programming languages
 
 JavaScript, on the other hand, is a dynamic programming language that supports Math calculations, allows you to dynamically add HTML contents to the DOM, 
 creates dynamic style declarations, fetches contents from another website, and lots more.
+
+
+to use input in java script
+
+Call the JavaScript via onclick event: Using FORM FIELDS to input and DIV TAG + INNERHTML to output. These are functions that generate a dialogue box to pop up. Prompt() is used to enter data and Alert() is used to output data. Line 3: This is the beginning TAG that your JavaScript must be enclosed in.
