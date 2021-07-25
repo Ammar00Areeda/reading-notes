@@ -17,5 +17,9 @@ I am here to gain experience about web develop 
 | read02| [go to it](https://ammar00areeda.github.io/reading-notes/read02) |
 | read03| [go to it](https://ammar00areeda.github.io/reading-notes/read03) |
 | read04| [go to it](https://ammar00areeda.github.io/reading-notes/read04) |
+| read05| [go to it](https://ammar00areeda.github.io/reading-notes/read05) |
+| read06| [go to it](https://ammar00areeda.github.io/reading-notes/read06) |
+| read07| [go to it](https://ammar00areeda.github.io/reading-notes/read07) |
+
 
 

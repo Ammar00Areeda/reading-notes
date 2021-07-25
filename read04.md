@@ -2,7 +2,7 @@
 
 ## java script
 
-avaScript is a dynamic programming language that's used for web development, in web applications, 
+javaScript is a dynamic programming language that's used for web development, in web applications, 
 for game development, and lots more. It allows you to implement dynamic features on web pages that cannot be done with only HTML and CSS.
 
 Many browsers use JavaScript as a scripting language for doing dynamic things on the web. Any time you see a click-to-show dropdown menu, 
